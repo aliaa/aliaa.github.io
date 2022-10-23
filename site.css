@@ -29,10 +29,6 @@ ul.socialLinks {
 	height: 24px;
 }
 
-ul.skills {
-	columns:2;
-}
-
 .skills li {
 	margin-right: 12px;
 	color: #bbb;
